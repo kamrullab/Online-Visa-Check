@@ -1,5 +1,4 @@
- <script>
-        const countries = [
+const countries = [
                         { name: "Afghanistan", url: "https://mfa.gov.af/en/", flag: "https://www.cia.gov/the-world-factbook/static/2b3a06ae2c0b517dbfe6629f1f967718/1be8f/AF-flag.webp" },
             { name: "Albania", url: "https://punetejashtme.gov.al/en", flag: "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg" },
             { name: "Algeria", url: "https://www.mfa.gov.dz/", flag: "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg" },
@@ -258,4 +257,3 @@
             `;
             countryList.appendChild(countryCard);
         });
-    </script>
